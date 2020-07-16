@@ -10,7 +10,7 @@
 My learning is based on creating projects and contributing to the open source community 
 
 ### 💡&nbsp; Driven by shipping products that help people  
-My passion for programming is related to create incredible things and help people with that product, doesn't matter the technology stack.  
+My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.  
 
 ### 🔭&nbsp; Goals for 2020 
 - Produce more videos for my [Youtube Channel](https://www.youtube.com/c/LauraBeatris) 
