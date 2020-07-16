@@ -1,5 +1,4 @@
 
-### What's up 👋🏼
 <p align="left">
    <img src="https://i.ibb.co/grQkYvV/Whats-App-Image-2020-07-15-at-21-42-06-2-2.png" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
 </p>
