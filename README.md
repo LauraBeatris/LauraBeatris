@@ -3,7 +3,7 @@
    <img src="https://i.ibb.co/grQkYvV/Whats-App-Image-2020-07-15-at-21-42-06-2-2.png" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
 </p>
 
-🖖🏼 &nbsp;	Hi! I'm Full Stack Developer and volunteer mentor at [Rocketseat](https://rocketseat.com.br/)
+🖖🏼 &nbsp;Hi! I'm Full Stack Developer and volunteer mentor at [Rocketseat](https://rocketseat.com.br/)
 
 ### ✨&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community 
