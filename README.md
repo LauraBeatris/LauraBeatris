@@ -17,9 +17,4 @@ My passion for programming is related to create incredible things and help peopl
 - Improve my [GraphQL](https://graphql.org/) Knowledge 
 
 ### ☕️&nbsp; Wanna chat? 
-👉🏼&nbsp; @ me on [Twitter](https://twitter.com/lauradotjs) about any of the following 
-- Programming stuff 
-- Harry Potter 
-- Lord of the Rings 
-- Valorant 
-- The 1975, P!ATD
+👉🏼&nbsp; @ me on [Twitter](https://twitter.com/lauradotjs)
