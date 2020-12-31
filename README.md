@@ -1,5 +1,3 @@
-🖖🏼 &nbsp;Hi! I'm Full Stack Developer and volunteer mentor at [Rocketseat](https://rocketseat.com.br/)
-
 ### ✨&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community 
 
